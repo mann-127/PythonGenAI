@@ -1,0 +1,11 @@
+python-dotenv
+requests
+pandas
+numpy
+matplotlib
+fastapi
+pydantic
+sqlalchemy
+python-jose
+chromadb
+sentence_transformers
