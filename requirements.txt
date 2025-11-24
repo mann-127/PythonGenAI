@@ -9,3 +9,6 @@ sqlalchemy
 python-jose
 chromadb
 sentence_transformers
+tensorflow-macos
+tensorflow-metal
+tensorflow
