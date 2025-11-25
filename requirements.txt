@@ -10,3 +10,4 @@ python-jose
 chromadb
 sentence_transformers
 tensorflow
+seaborn
