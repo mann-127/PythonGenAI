@@ -19,20 +19,20 @@ import pandas as pd
 # st.code("print('Hello')", language="python")
 
 # 3
-# # Text input
-# name = st.text_input("Enter your name")
-# st.write(f"Hello, {name}!")
-# # Number input
-# age = st.number_input("Enter your age", min_value=0, max_value=120)
-# # Slider
-# value = st.slider("Select a value", 0, 100, 50)
-# # Select box
-# option = st.selectbox( "Choose an option", ["Option 1", "Option 2", "Option 3"] )
-# # Checkbox
-# agree = st.checkbox("I agree")
-# if agree: st.write("Thank you!")
-# # Button
-# if st.button("Click me"): st.write("Button clicked!")
+# Text input
+name = st.text_input("Enter your name")
+st.write(f"Hello, {name}!")
+# Number input
+age = st.number_input("Enter your age", min_value=0, max_value=120)
+# Slider
+value = st.slider("Select a value", 0, 100, 50)
+# Select box
+option = st.selectbox( "Choose an option", ["Option 1", "Option 2", "Option 3"] )
+# Checkbox
+agree = st.checkbox("I agree")
+if agree: st.write("Thank you!")
+# Button
+if st.button("Click me"): st.write("Button clicked!")
 
 # 4
 # # Create sample data
