@@ -9,5 +9,7 @@ sqlalchemy
 python-jose
 chromadb
 sentence_transformers
+scikit-learn
 tensorflow
 seaborn
+xgboost
